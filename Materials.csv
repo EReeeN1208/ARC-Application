@@ -1,0 +1,16 @@
+Material-Name, Material-Code, Material-Type, Price, Amount
+Encoder, 4.1, Pieces, 20, 0.01
+Magnetic Encoder, 4.2M, Pieces, 50, 0.03
+PolyCarbon Sheet, 3.1, MetreSquares, 200, 0.5
+Aluminium 2024 Sheet, 3.2-2, MetreSquares, 30, 3.5
+Aluminium 4145 Sheet, 3.2-4, MetreSquares, 50, 4.5
+OmniWheel, 2.Omni, Pieces, 30, 0.4
+6 in. Wheel, 2."6in", Pieces, 20, 0.3
+4 in. Wheel, 2."4in", Pieces, 15, 0.2
+NavX, 1/NavX, Pieces, 200, 0.1
+RoboRIO, 1/RIO, Pieces, 250, 1
+Modem, 1/Modem, Pieces, 50, 0.2
+Circuit Breaker, 5: CB, Pieces, 20, 1.5
+Robot Signal Light, 5: RSL, Pieces, 80, 0.5
+16 AWG Wire, 6.'16', Metres, 2.2, 0.25
+18 AWG Wire, 6.'18', Metres, 0.75, 0.35
